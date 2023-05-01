@@ -12,6 +12,8 @@
 # There are a number of Python libraries needed 
 # 
 # pip3 install langchain tiktoken pyllamacpp pyllama transformers pygpt4all llama-cpp-python faiss-cpu 
+#
+# I copied some data from Wikipedia of ex-President Obama (random politician) as a test and made a query 
 
 
 GPT4ALL_MODEL_PATH = "./models/ggml-gpt4all-l13b-snoozy.bin"
